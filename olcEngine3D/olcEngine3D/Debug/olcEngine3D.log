@@ -1,0 +1,9 @@
+﻿  olcEngine3D.cpp
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(421): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  olcEngine3D.vcxproj -> D:\CPP_Projects\repos\olcEngine3D\Debug\olcEngine3D.exe

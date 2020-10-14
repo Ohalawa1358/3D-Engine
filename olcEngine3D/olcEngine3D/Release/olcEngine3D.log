@@ -1,0 +1,10 @@
+﻿  olcEngine3D.cpp
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CPP_Projects\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(693,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+LINK : fatal error C1354: error accessing previous object file D:\CPP_Projects\repos\olcEngine3D\Release\olcEngine3D.iobj (corrupted symbol table)
+LINK : fatal error LNK1257: code generation failed
